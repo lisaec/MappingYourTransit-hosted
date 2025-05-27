@@ -11,14 +11,17 @@ import matplotlib
 matplotlib.use('Agg')
 
 import matplotlib.pyplot as plt
-
-
+import matplotlib.font_manager as fm
 
 import warnings
 warnings.filterwarnings('ignore')
 
 
 def map(feed, Heatmap = True, user_data = False)-> str:
+
+    font_path = 'fonts/Helvetica.ttf'  # Adjust path as needed
+    helvetica = fm.FontProperties(fname=font_path)
+    plt.rcParams['font.family'] = helvetica.get_name()
     
     """Makes 11x17 poster with map, route legend, and an optional heatmap. 
     saves poster in outputs folder and returns the name of the file"""
