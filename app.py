@@ -11,4 +11,6 @@ server = app.server
 create_layout(app)
 register_callbacks(app)
 
-app.run(debug=False) 
+if __name__ == '__main__':
+    port = int(os.environ.get("PORT", 8050))  # Render sets the PORT env variable
+    app.run_server(host='0.0.0.0', port=port, debug=False)
