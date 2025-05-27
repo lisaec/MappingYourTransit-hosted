@@ -1,0 +1,7 @@
+﻿route_id,network_id
+"21",south-county-routes
+"24",south-county-routes
+"27",south-county-routes
+"28",south-county-routes
+"A",paso-robles-routes
+"B",paso-robles-routes

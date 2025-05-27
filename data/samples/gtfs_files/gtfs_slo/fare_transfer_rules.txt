@@ -1,0 +1,4 @@
+﻿fare_product_id,transfer_count,fare_transfer_type
+regional-day-pass,-1,2
+south-county-day-pass,-1,2
+south-county-discount-day-pass,-1,2

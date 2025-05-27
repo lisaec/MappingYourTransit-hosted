@@ -1,0 +1,1611 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+4,W&M-Sa,W&M-SaFull-Sa-154f844,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-bd7093d-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-80184e7,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942_1
+4,W&M-Sa,W&M-SaFull-Sa-154f844-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-cdb82cf,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942_1
+4,W&M-Sa,W&M-SaFull-Sa-80184e7-4,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942_1
+3,W&M-Sa,W&M-SaFull-Sa-4f99c3b,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-db4e0eb,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-ec63b3e,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-846b87a,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+9,W&M-Sa,W&M-SaCWF-Weekday-90f73c6,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-579ebc3,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-35f7168,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-cab52ae,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-6d37889,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-3c41e36,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+7,W&M-Sa,W&M-SaCWF-Weekday-4ceff33,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-841a823,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+7,W&M-Sa,W&M-SaCWF-Weekday-cc7e7c7-2,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaCWF-Weekday-cc7e7c7,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaCWF-Weekday-4fdb1bf-2,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaCWF-Weekday-4fdb1bf,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaCWF-Weekday-563e1cb-2,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaCWF-Weekday-563e1cb,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-cdaebc7-1,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-cdaebc7,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-7b9e95b,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-43bab85,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-a2a96bb,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-b415a41,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-a737051,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-d5244c8,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Sa,W&M-SaFull-Sa-e206409,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+3,W&M-Sa,W&M-SaFull-Sa-36705bc,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-1578033,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-b0e988e,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-d69ca8c,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-a97bf1f,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-e6aea61,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-09a0cf9,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-511dd36,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-c7f9d2a,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Sa,W&M-SaFull-Sa-a0af6fb,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,W&M-Sa,W&M-SaFull-Sa-87ade94,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+2,W&M-Sa,W&M-SaFull-Sa-e2ec2a8,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-038bf16,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-62558f4,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-be344f8,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-fb035c2,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-3c26750,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-20cf9f9,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-a8607b8,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-07a30d5,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-5259e76,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-25cfafe,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-a8abc7a,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-5b9afd7,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Sa,W&M-SaFull-Sa-919f52b,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,W&M-Sa,W&M-SaFull-Sa-021eafa-2,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-021eafa,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Sa,W&M-SaFull-Sa-117fb87-1,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-117fb87,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-0e077c9,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-887901f,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-0db65f1,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-21959c7,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-7396894,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-2ff86d1,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-6d25681,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-14d8f5e,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-d7ea05f,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-84e1034,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-48fdad3,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Sa,W&M-SaFull-Sa-d2c0066,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Sa,W&M-SaFull-Sa-74c9140,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-b1b0c4b,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-69fb990,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+2,W&M-Sa,W&M-SaFull-Sa-080bb91-2,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-080bb91,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-433aa59-1,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-433aa59,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-7d4770f,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-0e322b5,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-8d5476e,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-e5093fe,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-7cbebb4,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-6c1e20f,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-dba4aba,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-a9e22da,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-424bf0f,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Sa,W&M-SaFull-Sa-8d0a11b,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+12,W&M-Sa,W&M-SaFull-Sa-f2a53b8,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+2,W&M-Sa,W&M-SaFull-Sa-d784e04,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+12,W&M-Sa,W&M-SaFull-Sa-93ed2cd,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-747c319,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-7b2f002,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-7a822d0,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-4769477,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-9563243,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-ec82175,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-c49430e,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-50c5ae1,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-08dfda6,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-ce35d0a,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-d045f2e,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-8adac87,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-98ae9ca,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-fea5e00,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-0a02abd,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-18ee0ac,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-daa7748,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-612aefa,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-d0f4c1c,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-3a79224,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-abafece,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-a729428,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-6f2acac,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-cd4e5b7,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-95228a9,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-4ab632a,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-e934030,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-66da773,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-a10146f-2,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-a10146f,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-e7f8ea8-1,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-e7f8ea8,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-8fa4760,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Sa,W&M-SaFull-Sa-19b48f0,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+6,W&M-Sa,W&M-SaFull-Sa-8042111,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-be57626,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-5bebd4c,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-0147e00,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-27c9345,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-6c904d2,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-9357ef6,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-27c9345-2,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+12,W&M-Sa,W&M-SaFull-Sa-1594670,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+6,W&M-Sa,W&M-SaFull-Sa-9357ef6-1,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+5,W&M-Sa,W&M-SaFull-Sa-33d2b12,Queens Path at Riverside,0,5A,5_2577091_2576832
+12,W&M-Sa,W&M-SaFull-Sa-296c42c,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+5,W&M-Sa,W&M-SaFull-Sa-8c24453,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-995182e,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-16de213,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-dfbdb7d,Queens Path at Riverside,0,5A,5_2577091_2576832
+12,W&M-Sa,W&M-SaFull-Sa-d96904d,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-4bd4b3f,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-75c880a,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-538823a,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-9490801,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-e0349ae,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-e20ec46,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-c48f7eb,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-f6673b2,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-e20ec46-2,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-521b870,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-d515e80,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-19d5aed-1,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,W&M-Sa,W&M-SaFull-Sa-19d5aed,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+6,W&M-Sa,W&M-SaFull-Sa-e4268a3,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+12,W&M-Sa,W&M-SaFull-Sa-ba2bf86,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+5,W&M-Sa,W&M-SaFull-Sa-cbdd4c1,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-3e26b64,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-5100ea5,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-6f4d12c,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Sa,W&M-SaFull-Sa-cfb6a89,Market House,0,15A,15_2577091_3423007
+5,W&M-Sa,W&M-SaFull-Sa-c2c37ff,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Sa,W&M-SaFull-Sa-3669450,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-b76bece,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-907a228,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-a7a90cc,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-f25516c,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-05c8d04,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-85a6034,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-73ba394,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-2fcbeb8,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-b81392e,Market House,0,15B,15_2577091_3423007
+5,W&M-Sa,W&M-SaFull-Sa-de912f1,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-357d994,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-64ea778,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-bf299f9,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-ad1a3e5,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-dad06b8,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-c5bce8b,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-fab15a4,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-4185084,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-58b5de2,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Sa,W&M-SaFull-Sa-dd136f4,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-58ae3f5,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-3289d26,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-aa7eeb3,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-284a44b,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-7f100b0,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Sa,W&M-SaFull-Sa-a4f3793,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-8c1cd91,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-3d20452,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-75cfe28,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-0e95c34,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-6e713e3,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-89f4cf9,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-2985b76,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-7be1ea2,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-02c5e39,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-767d3f5,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-f656152,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-d7bf6d6-2,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-d7bf6d6,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-65f0db2,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-3c6faba,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-c1d9e1e,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-ca08559,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-5eb066f,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-c1d9e1e-2,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-b912d63,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-e8d72be,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-1ddd705,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-2e6f62b,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-b866310,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-7dcaed3,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-3b9ca5d,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-82cf487,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-e286b47,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-409ebb8,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-0e403a9,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-f1a3631,Market House,0,15B,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-00ff8a9,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-8ed39f7,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-62717b6,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-bb31323,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-5e9f61b,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-b659038,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-63e73d1,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-77fc618,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-bb6cebd,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-34f3777,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-d82f0c3,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-9a0bf7b,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-09803ba,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-6adad74,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-620e017,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-84c9205,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-ec0e30e,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-65f0db2-2,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-4a1dae7,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-ec0e30e-1,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-9ea16b7,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-4a1dae7-1,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-cc4a3ad,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-9ebf5db,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-61cbc13,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-a1d56b0,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-eb65f01,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-86a7694,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-1e8a45d,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-241a19c,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-89dd49c,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-b1ca0d7,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-8fa5d5f,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-620e017-1,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-5c62026,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-083f6a0,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Sa,W&M-SaFull-Sa-6757347,Visitor Center,1,15B,15_3423007_3423000
+15,W&M-Sa,W&M-SaFull-Sa-69955c5,Visitor Center,1,15A,15_3423007_3423000
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-6bf1401,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-c00e68b,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-84de49f,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-acb4857,Elm hurst St at Lee Hall,0,1C,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-ee9ddf4,Elm hurst St at Lee Hall,0,1C,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-11e6029,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-fd38d7e,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-38a3b71,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-6c08db7,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-0e0f437,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-14e049e,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-da74a2c,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-6f19a04,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-11834bd,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-e95fa51,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-dd060cf,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-ab8b672,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-dc5918b,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-e2cc329,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-4b0323f,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-e70f553,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-6e828f6,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-183c74e,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-c87048f,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-b393767,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-0e0deba,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-4400771,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-fa09706-1,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-fa09706,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-121603a,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-a145b7e,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-d5cd148,Elm hurst St at Lee Hall,0,1B,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-864c829,Elm hurst St at Lee Hall,0,1B,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-9e63625,Elm hurst St at Lee Hall,0,1C,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-56be91a,Elm hurst St at Lee Hall,0,1B,1_2577091_2577081
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-615057b,North Boundary St at Williamsburg Transit Center,1,1B,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-0d5eb43,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-42b1733,North Boundary St at Williamsburg Transit Center,1,1B,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-5cf114e,North Boundary St at Williamsburg Transit Center,1,1B,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-5629fea,North Boundary St at Williamsburg Transit Center,1,1C,1_2577081_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-936dcd3,North Boundary St at Williamsburg Transit Center,1,1C,1_2577081_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-eabb530,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-741bafe,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-bb6f154,East roshahmhbeau drive at Wal-Mart,0,2B,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-a2fda8a,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-1d891bd,East roshahmhbeau drive at Wal-Mart,0,2B,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-26c79c3,East roshahmhbeau drive at Wal-Mart,0,2B,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-1008df6,East roshahmhbeau drive at Wal-Mart,0,2C,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-e162693,East roshahmhbeau drive at Wal-Mart,0,2C,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-a03d38f,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-6a92274,East roshahmhbeau drive at Wal-Mart,0,2C,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-baf7adb,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-d658d9e,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-3d17898,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-b1bcead,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-95ca1a5,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-390f890,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-278e778,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-75eb0f8,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-da2c2a4,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-f5425e6,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-c276452,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-e7a81c6,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-1f4090b,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-d0d9554,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-e7a81c6-2,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-b85b4df,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-d0d9554-1,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-c3eef9a,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-c6b2630,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-79e7802,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-3958c97,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-2309ecd,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-d239ac3,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-758fbd2,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-4f6f60a,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-82bb798,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-f53cae8,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-6424713,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-49cfdcf,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-e37e2aa,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-e6d1af3,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-dcacf88,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-18fcc9b,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-530de9a,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-15f7fde,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-578f7c1,North Boundary St at Williamsburg Transit Center,1,2B,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-626d9c3,North Boundary St at Williamsburg Transit Center,1,2B,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-674618d,North Boundary St at Williamsburg Transit Center,1,2C,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-578f7c1-2,North Boundary St at Williamsburg Transit Center,1,2B,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-e97a4ba,North Boundary St at Williamsburg Transit Center,1,2C,2_2576942_2577091
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-674618d-1,North Boundary St at Williamsburg Transit Center,1,2C,2_2576942_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-bb6c57b,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-0b08cb7,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-c5aaa95,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-46f87b2,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-018ed15,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-98daad5-2,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-cf74112,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-77e4d60,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-5b50ea6-1,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-5b50ea6,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-c94cd91,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-a7f8fdd,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-dea5c69,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-5c1aeda,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-8e5f1a9,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-a01354f,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-c558da5,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-e195e0a,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-2e4fd9b,Market House,0,15B,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-32e8fc7,Market House,0,15B,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-d07a849,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-8b94f3f,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-33fe193,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-98daad5,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-b943ac0,Market House,0,15A,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-83f22fc-2,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-83f22fc,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-9deb258-1,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-9deb258,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-3b447ad,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-d226612,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-60f9990,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-9e93adc,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-aa6b004,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-cb21825,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-227d93d,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-9d90ed6,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-bbec839,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-b62a0f9,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-ef7414e,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-8e9e3a2,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-4ef92dd,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-a37e34e,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-ab265f6,Market House,0,15B,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-2fa97ff,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-2764754,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-dc813be,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-06cae7a,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-ed20455,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-6965732,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-2782e76,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-e561ce8,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-945dc83,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-d9b12f1,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-13995ca,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-20e2231,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-c6b489e,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-34780c9,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-4838228,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-f9dd25f,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-3127284,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-4dbe2c8,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-b9df526,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-a4a35d4,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-69edf2e,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-222c1ef,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-63af12c,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-6fe2ddc,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-64572c3,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-634813e,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-03a9a00,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-21f3dac,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+15,W&M-Su,W&M-SuCore-Sa-ec03655,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-70d2a2b,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-e82524b,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-40638c1,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-31d71fc,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-0e79df0-1,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-4e1074f,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-0e79df0,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-4b73978,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-89c9ece,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-034fbdf,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-177ec85,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-ff0ddb0,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-227d4b3,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-7101735,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-142fba6,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-7599d67,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-13b33a0,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-a01d836,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-04332aa,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-d155af7,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-1b7c6b0,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-4aa6217,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-f21a1b5,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-6f6bb12,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-b090254,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-382f043,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-c3177dc,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-5acfcfc,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-2bad21f,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-d0830a6,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-a64419d,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-b4ba65d,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-2e5f85c,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-7612173,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-3204017,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-66d384d-2,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-2361ec5,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-66d384d,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-74a0f23,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-dbb570d-1,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-2f94a98,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-dbb570d,Market House,0,15B,15_2577091_3423007
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-cc23585,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-5cc15c4,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-eedb9dd,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-0a48a9d,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-bf9d932,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-48ea9f3,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-56fa34d,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-800fc0b,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-58a1d34,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-0fe3618,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-c5e788c,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-e09e542,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-243f5b9,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-716f81e,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-b93656c,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-44f8487,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+12,W&M-Weekday,W&M-WeekdayW&M-Sa-7412d45,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+15,W&M-Su,W&M-SuCore-Sa-1c87555,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-36ab403,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-cbc5131,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-b93656c-2,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,W&M-Su,W&M-SuCore-Sa-e892538,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Su,W&M-SuCore-Sa-92cfa07,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Su,W&M-SuCore-Sa-414faa2,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Su,W&M-SuCore-Sa-b2f646e,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Su,W&M-SuCore-Sa-444db15,Visitor Center,1,15B,15_3423007_3423000
+15,W&M-Su,W&M-SuCore-Sa-75b5427,Visitor Center,1,15A,15_3423007_3423000
+15,W&M-Su,W&M-SuCore-Sa-143cf45,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-0f4f34f,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-a73541e,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-6302e37,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-e606409-2,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-4d7cc50,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-e606409,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-b9fc850,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-45d1b27,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-9d6d94e,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-683f107,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-6b308c7,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-42cd29f,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-e2cc87d,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-f53ca08,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-7e37500,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-4c8a691,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-df56242,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-043e6a7,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-aa7dc8b,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-0a7f371,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-a49f0a3,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-708cdbd,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+5,W&M-Weekday,W&M-WeekdayW&M-Sa-ffb4e67,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Su,W&M-SuCore-Sa-f28af9e,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-7a65888,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-d9a308a,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-ea00546,Market House,0,15A,15_2577091_3423007
+15,W&M-Su,W&M-SuCore-Sa-997770a,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Su,W&M-SuCore-Sa-dcfabfd,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-a3986f8,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-a7c3d03,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-da11b68,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-7680807,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-a7c3d03-2,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-fdffa44,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-c56269b,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-e69a4fd,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-ab3f834,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-c02053a,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-b894b02,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-c65a32a,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-59dd819,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-015208f,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-feff11a,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-05b70a2,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-4e2de86,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-9be6b79,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-9e46a45,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-f8febff,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-9be6b79-2,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-8afc34a,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-7680807-1,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-cd23296,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-9a48626,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-7a26f39,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-e9fb52b,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-cc048bb,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-e0e86fb,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-28bf573,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-4b7645b,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-cbfa9a1,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-b6d65fa,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-748a03f,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-a47f506,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-d651769,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-649fb16,Market House,0,15A,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-881c889,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-86a4b98,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-03ee2cd,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-e06582b,Market House,0,15B,15_2577091_3423007
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-9488a8b,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-a384087,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-94e6a14,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-586a56d,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-46316cd,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-ea77f4d,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-4aa6d68,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-1afa80c,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-bb2db18,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-3135544,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-e8dd949,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-113ea51,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-b286bbd,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-f440c69,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-c371801,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-910dc17,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-d8ca4e3,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-d033d7b,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-bcfa67b,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-6611983,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-22190f1,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-35e5e49,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-0465a00,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-a5959f7,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-1e7952f,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-030ddbe,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-0e2f1e5,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-d937bb2,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-4ad33de,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-170c567,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-0eaec10,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-5846755,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-1c33cc2,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-9d3ecb5,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-71e528b,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-9368903,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-03219be,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-4bc6dd7,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-b9e6ed1,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+9,W&M-Su,W&M-SuCore-Sa-9c71efc,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-91f16ec,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+1,W&M-Su,W&M-SuCore-Sa-f57935f,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-422bdcb-1,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+9,W&M-Su,W&M-SuCore-Sa-3052530,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-82dc33f,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-f1bec19,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-db45388,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+9,W&M-Su,W&M-SuCore-Sa-270e723,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-d3dc09b,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-9099531,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-ce190e3,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-86caab0,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-5e13d66,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-fd5ef77,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-0563c36,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-6d06fa1,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-cb001e3,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-6bbc503,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-1dcc7f9,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-20194c2,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-b0b0054,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-4bb491b,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-a9ab989,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-fe94a7e,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-1674156,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-20194c2-2,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-780d543,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-8056731,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-7c8628c,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+9,W&M-Su,W&M-SuCore-Sa-fe94a7e-1,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-6ef3d85,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-9a957c9,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-e5c2ce1,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+1,W&M-Su,W&M-SuCore-Sa-efe2933,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-3601703,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-884e100,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-2d6e896,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-edc157a,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-71ea0d8,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-bee71d7,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-018244b,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-126db54,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-e2ffde6,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-234e226,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-862466e,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-9510185,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-311437f,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-ed8ffb2,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-3417284,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-f8799db,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-3dd13d0,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-9510185-2,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-7f04fc3,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-5f2797a,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-7bc386f,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-f8799db-2,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-2212573,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayW&M-Sa-422bdcb,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,W&M-Su,W&M-SuCore-Sa-f6dc521,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+7,W&M-Weekday,W&M-WeekdayFull-Weekday-5f2797a-2,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-e3fa828,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-b49caaa-2,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-13355ef,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-e3fa828-1,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-271e80c,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-13355ef-4,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-03fffca,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-271e80c-4,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+6,W&M-Su,W&M-SuCore-Sa-19e6f0b,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+7,W&M-Su,W&M-SuCore-Sa-03fffca-4,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+6,W&M-Su,W&M-SuCore-Sa-761139e,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-19e6f0b-4,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-e434a03,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-761139e-4,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-2c4a94e,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-e434a03-4,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+9,W&M-Su,W&M-SuCore-Sa-073ad48,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-dad0430,Visitor Center,1,15B,15_3423007_3423000
+9,W&M-Su,W&M-SuCore-Sa-81212b8,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-d58b969,Visitor Center,1,15A,15_3423007_3423000
+9,W&M-Su,W&M-SuCore-Sa-192996f,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Su,W&M-SuCore-Sa-0885950,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+7,W&M-Su,W&M-SuCore-Sa-b43b392,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+9,W&M-Su,W&M-SuCore-Sa-08ac53d,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+7,W&M-Su,W&M-SuCore-Sa-7f7a59b,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-bd3ef06,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-8b0e9bd,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-90353c4,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-3a56470,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-000fcb2,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-69287fe,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-e8e06e1,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,W&M-Su,W&M-SuCore-Sa-b49caaa,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Su,W&M-SuCore-Sa-bc11b62,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+4,W&M-Su,W&M-SuCore-Sa-36bb750,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-6cfc38f,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-1028af6,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+4,W&M-Su,W&M-SuCore-Sa-2534083,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-9d06984,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-638479c,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+4,W&M-Su,W&M-SuCore-Sa-524b4ad,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-46d2b6e,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-baa1ead,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+4,W&M-Su,W&M-SuCore-Sa-9e2def9,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-1314c8d,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-14ebf74,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+4,W&M-Su,W&M-SuCore-Sa-3c7c097,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-c67d6e3,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-b75c591,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+4,W&M-Su,W&M-SuCore-Sa-86e8d95,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-023abd1,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-e31dd28,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+4,W&M-Su,W&M-SuCore-Sa-d112292,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-70b7fc2,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,W&M-Su,W&M-SuCore-Sa-f600eaa,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-d7c60e9,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,W&M-Su,W&M-SuCore-Sa-cc7cb53,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-3750e2e,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,W&M-Su,W&M-SuCore-Sa-c8ec38a,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-ef35b3e,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,W&M-Su,W&M-SuCore-Sa-f4ea577,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-cb7a603,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,W&M-Su,W&M-SuCore-Sa-e389436,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-cbe5f2a,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,W&M-Su,W&M-SuCore-Sa-c219031,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-f08b0c5,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Su,W&M-SuCore-Sa-8ad0316,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-cb7a603-2,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Su,W&M-SuCore-Sa-5be9669,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-eac48fe,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Su,W&M-SuCore-Sa-c219031-2,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-f08b0c5-1,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Su,W&M-SuCore-Sa-c94470b,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-f125c9e,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-2c4a94e-4,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-61d1b15,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-e075d36,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-c94470b-4,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-a768a7c,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-430f533,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-c0dbc6e,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-61d1b15-4,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-9a015a3,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Su,W&M-SuCore-Sa-c3e0d8e,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-b7ab669,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+2,Core-Weekday,Core-WeekdayCore-Su-3511df1,North Boundary St at Williamsburg Transit Center,1,2B,2_2576942_2577091
+6,W&M-Su,W&M-SuCore-Sa-430f533-4,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-6f05e78,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+2,Core-Weekday,Core-WeekdayCore-Su-289e026,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+6,W&M-Su,W&M-SuCore-Sa-08b4bbb,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-21379b6,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+2,Core-Weekday,Core-WeekdayCore-Su-17a592b,North Boundary St at Williamsburg Transit Center,1,2B,2_2576942_2577091
+6,W&M-Su,W&M-SuCore-Sa-c3e0d8e-4,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-c4d3540,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+2,Core-Weekday,Core-WeekdayCore-Su-9d7b7c4,North Boundary St at Williamsburg Transit Center,1,2B,2_2576942_2577091
+6,W&M-Su,W&M-SuCore-Sa-e0d1d0d,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-9a5ab3f,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+2,Core-Weekday,Core-WeekdayCore-Su-ab1be15,North Boundary St at Williamsburg Transit Center,1,2C,2_2576942_2577091
+6,W&M-Su,W&M-SuCore-Sa-08b4bbb-4,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-f72b6cb,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+2,Core-Weekday,Core-WeekdayCore-Su-6bbdb9a,North Boundary St at Williamsburg Transit Center,1,2C,2_2576942_2577091
+4,W&M-Su,W&M-SuCore-Sa-2c96130,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-0a47fcf,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-bb3cfbb,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+6,W&M-Su,W&M-SuCore-Sa-e0d1d0d-4,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-3face73,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+2,Core-Weekday,Core-WeekdayCore-Su-442c7d6,North Boundary St at Williamsburg Transit Center,1,2C,2_2576942_2577091
+4,W&M-Su,W&M-SuCore-Sa-836b704,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-73aa8ee,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-d2aec94,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+4,W&M-Su,W&M-SuCore-Sa-2c96130-4,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,W&M-Weekday,W&M-WeekdayW&M-Sa-a324185,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-980f05f,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Su,W&M-SuCore-Sa-bbc7f66,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-d29acc8,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-8602e23,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-9d1aff9-2,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-cf63d8c,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-a978595,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-c4c3eb0,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-d29acc8-1,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+2,W&M-Su,W&M-SuCore-Sa-b8ad859,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-62a78a1,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-24ab2cb,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-a978595-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+2,W&M-Su,W&M-SuCore-Sa-2bdacea,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-bd2b0fd,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+2,W&M-Su,W&M-SuCore-Sa-b224312,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-62a78a1-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+2,W&M-Su,W&M-SuCore-Sa-07dad13,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-46ab2fd,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+2,W&M-Su,W&M-SuCore-Sa-0c91f6e,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-bd2b0fd-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+2,W&M-Su,W&M-SuCore-Sa-551d7ac,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-d2cb693,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-be486f4,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-46ab2fd-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-835d78c,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-528ec38,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-f74ae20,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-d2cb693-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-b55c51a,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-6bd2328,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-835d78c-2,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-528ec38-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,W&M-Su,W&M-SuCore-Sa-97e21c1,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-84e91ea,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Su,W&M-SuCore-Sa-5be9669-1,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-5982cd1,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-97a479e,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-91b1c6c,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-4445e74,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-2ea7e3e,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-6401769,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-64a9dca,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-7ca2808,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-e2a5d26,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-915c4b0,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-84a632b,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-9fc0c1e,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-b9ad40f,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-6a4b83c,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-ecae882,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-c990cf3,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-da50ecf,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-6f35e29,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-4504405,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-1d183a4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-b5b0566,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,W&M-Su,W&M-SuCore-Sa-5899fda,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-b360a22,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-cec577e,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-3d9ab12,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-2b25473,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-9d1aff9,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,W&M-Su,W&M-SuCore-Sa-ecfc53c,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,W&M-Weekday,W&M-WeekdayW&M-Sa-6319888,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+12,W&M-Su,W&M-SuCore-Sa-13b39db,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-45baea7,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-3846bc3,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-9333c88,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-5edb024,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-2cc6755,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-a6eaeac,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-54479db,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-3b6fca4,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-da11401,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-777f09d,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-9df3e2b,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-d3fe4c0,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Su,W&M-SuCore-Sa-597a612,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+2,W&M-Weekday,W&M-WeekdayW&M-Sa-ba0dab6,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+12,W&M-Su,W&M-SuCore-Sa-3612556,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Su,W&M-SuCore-Sa-0da417b,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Su,W&M-SuCore-Sa-081ab68,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+12,W&M-Su,W&M-SuCore-Sa-88ddbf9,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+5,W&M-Su,W&M-SuCore-Sa-c68d594,Queens Path at Riverside,0,5A,5_2577091_2576832
+12,W&M-Su,W&M-SuCore-Sa-3a2e0d1,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+5,W&M-Su,W&M-SuCore-Sa-2865142,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Su,W&M-SuCore-Sa-c68d594-2,Queens Path at Riverside,0,5A,5_2577091_2576832
+2,W&M-Su,W&M-SuCore-Sa-ce9294d,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-1cbec34,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-b55c51a-1,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-6bd2328-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-5947ca3,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-9d6be33,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-db9431f,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-1cbec34-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-c4c0a34,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-6d33147,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-56e192e,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-9d6be33-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-ee5a06b,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-573729c,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+2,W&M-Su,W&M-SuCore-Sa-2fc5341,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-6d33147-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+12,W&M-Su,W&M-SuCore-Sa-511c944,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-25209b7,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+2,W&M-Su,W&M-SuCore-Sa-bb96d7a,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-573729c-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+12,W&M-Su,W&M-SuCore-Sa-7b7f38a,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-396e11f,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-ed80858,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-25209b7-4,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-4570370,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-e264661,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-e44f1f0,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-396e11f-4,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-a7d0c14,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-52a0726,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+12,W&M-Su,W&M-SuCore-Sa-274a695,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+3,W&M-Weekday,W&M-WeekdayW&M-Sa-e264661-4,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+15,W&M-Su,W&M-SuCore-Sa-44bdb18,Market House,0,15A,15_2577091_3423007
+11,Core-Weekday,Core-WeekdayCore-Sa-ae4da4a-2,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+5,W&M-Su,W&M-SuCore-Sa-ce4a23d,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-ae4da4a,North Boundary St at Williamsburg Transit Center,1,1C,1_2577081_2577091
+15,W&M-Su,W&M-SuCore-Sa-c0af763,Market House,0,15A,15_2577091_3423007
+11,Core-Weekday,Core-WeekdayCore-Sa-b272d4f-1,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+15,W&M-Su,W&M-SuCore-Sa-337b793,Market House,0,15A,15_2577091_3423007
+11,Core-Weekday,Core-WeekdayCore-Sa-b272d4f,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+15,W&M-Su,W&M-SuCore-Sa-9b31270,Market House,0,15A,15_2577091_3423007
+11,Core-Weekday,Core-WeekdayCore-Sa-410c3f3-1,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+15,W&M-Su,W&M-SuCore-Sa-d86ace0,Market House,0,15A,15_2577091_3423007
+11,Core-Weekday,Core-WeekdayCore-Sa-410c3f3,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,Core-Weekday,Core-WeekdayCore-Sa-4c83f30,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,Core-Weekday,Core-WeekdayCore-Sa-fa7016e,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,Core-Weekday,Core-WeekdayCore-Sa-271bb76,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,Core-Weekday,Core-WeekdayCore-Sa-8873a2c,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,Core-Weekday,Core-WeekdayCore-Sa-c865f5a,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,Core-Weekday,Core-WeekdayCore-Sa-ca0fae4,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,Core-Weekday,Core-WeekdayCore-Sa-a8def35,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,Core-Weekday,Core-WeekdayCore-Sa-a2a38c2,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,Core-Weekday,Core-WeekdayCore-Sa-7ffab9f,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,Core-Weekday,Core-WeekdayCore-Sa-97cf0e6,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+5,W&M-Su,W&M-SuCore-Sa-bb7ce13,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Su,W&M-SuCore-Sa-2865142-1,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Su,W&M-SuCore-Sa-069648f,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Su,W&M-SuCore-Sa-5fb0795,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,W&M-Su,W&M-SuCore-Sa-3ca79cd,Queens Path at Riverside,0,5A,5_2577091_2576832
+1,Core-Weekday,Core-WeekdayCore-Sa-53d8c27,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-0436f61,Queens Path at Riverside,0,5A,5_2577091_2576832
+1,Core-Weekday,Core-WeekdayCore-Sa-ec62d60,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-ab02a64,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-d321c3b,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-9b29ac5,Queens Path at Riverside,0,5A,5_2577091_2576832
+1,Core-Weekday,Core-WeekdayCore-Sa-2d489cb,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-c876acd,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-e0027d2,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-94917a0,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-3dede5e,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-1404581,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-e1d0ee0,North Boundary St at Williamsburg Transit Center,1,1B,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-409d550,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-a0a581e,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-4b6c262,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-a9fad90,North Boundary St at Williamsburg Transit Center,1,1B,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-6131829,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-ba969dc,North Boundary St at Williamsburg Transit Center,1,1B,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-461cc99,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-44eb3f1,North Boundary St at Williamsburg Transit Center,1,1C,1_2577081_2577091
+5,W&M-Su,W&M-SuCore-Sa-268fca4,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-04a0fe6,North Boundary St at Williamsburg Transit Center,1,1C,1_2577081_2577091
+9,Core-Weekday,Core-WeekdayCore-Sa-5af2fca,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-03dd0bc,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-823dc13,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-6a7e664,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-064d0ab,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-d7f8c5f,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-0201c3f,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-5554f35,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-856e42f,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-cbb4eaf,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-6836627,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-fbceaab,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-e4973ef,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-8fa6be8,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-2d95217,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,Core-Weekday,Core-WeekdayCore-Sa-bedbeb8,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+11,Core-Weekday,Core-WeekdayCore-Sa-2aacb79,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,Core-Weekday,Core-WeekdayCore-Sa-861f9f6,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+9,Core-Weekday,Core-WeekdayCore-Sa-639b0de,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+11,Core-Weekday,Core-WeekdayCore-Sa-18dcb24,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+9,Core-Weekday,Core-WeekdayCore-Sa-3806f5a,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-9844b55,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-fcf8ea1,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-d589ec5,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-f446ebb,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-2fc331e,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-8cf5620,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-3e157ad,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-5f16422,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-bfdd563,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-6290693,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-99631f5,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-7840626,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-8b7299c,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-154a1c2,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-196e260,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-8d5f218,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-159bf38,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-7678273,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-568a149,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-6f60cf0,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-caf2b6b,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+9,Core-Weekday,Core-WeekdayCore-Sa-08bf9cb,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+7,Core-Weekday,Core-WeekdayCore-Sa-714a1ff,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-2bf994c,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-313104e,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-4245828,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-ce5d780,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-7f6eb6c,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-923c881,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-2c8e650,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-c22c024,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-f47f144,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-e0dd6ab,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-079a0f6,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-ea4be7b,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+7,Core-Weekday,Core-WeekdayCore-Sa-db394d0,East roshahmhbeau drive at Wal-Mart,0,7A,7_2577091_2576942
+15,Core-Weekday,Core-WeekdayCore-Su-9c9d9ce,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-2af93a1,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-500f37a,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-1b5c6a7,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-6304bfa,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-3d213df,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-e8bfeb4,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-ac57836,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-0e34efd,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-7ed4ded,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-4499aef,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-6a185dd,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-cd2ba70,Elm hurst St at Lee Hall,0,1C,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-66176cc,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-a739ce1,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-cc0faaa,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-7b84509,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-8fcb994,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-021872f,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-d22adc4,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-875300f,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-5ecd307,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-c3df964,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-2d5b4b0,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-a7d36ca,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-40aa9fd,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-7b27709,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-b6e26df,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-ee25fa2,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-ab5a0c8,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-31a9edc,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-5378b49,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-e3cf38c,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-8333acc,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-e4351bd,Elm hurst St at Lee Hall,0,1C,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-9ca074c,Elm hurst St at Lee Hall,0,1C,1_2577091_2577081
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-6689dc4,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-de33b83,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-fc21258,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-ae1c9e6,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-e9ce508,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-066dfc6,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-469db7c,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-1367420,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-c1f19e1,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-341873a,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-cd2831d,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-6a56437,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-a1e03d3,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-3b4fcab,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-c5ef374,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-45e3c90,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-fe4f22a,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-3c09bc1,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-174a1b3,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-986e906,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-f78f66a,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-e386b91,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-ef0b863,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-c87a247,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-5552cba,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-f04474c,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-838fa14,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-10e6fd1,Market House,0,15B,15_2577091_3423007
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-2da7be2,Monticello Ave at School of Education. ,0,8A,8_2616310_2577057
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-067f958,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-dbbdb1b,Market House,0,15B,15_2577091_3423007
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-3335818,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-e62071d,Market House,0,15B,15_2577091_3423007
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-ece0864,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-de25893,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-6f7eed4,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-311590e,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-c924edf,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-818fdff,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-193e31d,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-af8e58f,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-fd1ed23,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-76e1ecc,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-c96401a,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-30abbf7,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-d772d19,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-4b481c0,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-b22f4ce,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+8,W&M-Weekday,W&M-WeekdayFull-Weekday-b980f29,Monticello Ave at School of Education.,1,8A,8_2577057_2616310
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-6ba4033,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-4d5559b-2,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+1,W&M-Su,W&M-SuCore-Sa-6bd0aba-1,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-271c487-2,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+1,W&M-Su,W&M-SuCore-Sa-6bd0aba,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-271c487,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+1,W&M-Su,W&M-SuCore-Sa-058fe17,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-b58cf78-1,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+1,W&M-Su,W&M-SuCore-Sa-62e96e0,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-b58cf78,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+1,W&M-Su,W&M-SuCore-Sa-84c501e,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-702be13-1,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+1,W&M-Su,W&M-SuCore-Sa-e8a1b38,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-702be13,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-afa0c4f,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-5d4fc27,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-2347ea4,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-12e147b,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-073a79e,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-e1896b0,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-7d369b1,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-17b6130,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-3a48790,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-c1f9266,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-d080ad3,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-e73f851,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-48b7612,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-aecd3a8,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-c604065,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-2f3830f,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-a428e83,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-ff89ab9,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-474ddd4,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-d4a8faf,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-38758e0,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-93e6fe3,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-4d5559b,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,W&M-Weekday,W&M-WeekdayW&M-Sa-47a80eb,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-17d70e4,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-9a17cef,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-d02f215,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-9b524c4,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-59c8149,Visitor Center,1,15B,15_3423007_3423000
+15,Core-Weekday,Core-WeekdayCore-Su-6c732d2,Visitor Center,1,15A,15_3423007_3423000
+15,Core-Weekday,Core-WeekdayCore-Su-9f25f36,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-545f9d2,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-b7bb092,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-5972c64,North Boundary St at Williamsburg Transit Center,1,15B,15_3423007_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-521c887,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-8592492,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-5992ab0,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-bc2e32b,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-92e6a53,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-47ef088,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-bc2e32b-2,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-1117f6a,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-47ef088-1,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-dc8d8bf,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-375bf21,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-9419010,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-4599775-2,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-dc5654c,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-9419010-1,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-cad51dd,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-e125298,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+1,W&M-Weekday,W&M-WeekdayFull-Weekday-23066a4,North Boundary St at Williamsburg Transit Center,1,1C,1_2577081_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-e52b76b,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-b75c591-2,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-e9ebed2,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-740c598,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-23066a4-2,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+12,Core-Weekday,Core-WeekdayCore-Su-e52b76b-1,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-2d32ef5,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-6c5c8a2,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+12,Core-Weekday,Core-WeekdayCore-Su-0848157,North Boundary St at Williamsburg Transit Center,1,12A,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-740c598-1,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+12,Core-Weekday,Core-WeekdayCore-Su-8aeb69d,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-2e3c7f8,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+12,Core-Weekday,Core-WeekdayCore-Su-4697559,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-6c5c8a2-1,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+12,Core-Weekday,Core-WeekdayCore-Su-64567a7,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-b513075,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+12,Core-Weekday,Core-WeekdayCore-Su-cb20188,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-af67467,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+2,Core-Weekday,Core-WeekdayCore-Su-296251e,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-aa3974c,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-116b138,East roshahmhbeau drive at Wal-Mart,0,2B,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-b268857,East roshahmhbeau drive at Wal-Mart,0,2B,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-4a9af67,East roshahmhbeau drive at Wal-Mart,0,2C,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-05a4566,East roshahmhbeau drive at Wal-Mart,0,2B,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-b8f2ff8,East roshahmhbeau drive at Wal-Mart,0,2C,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-269ecde,East roshahmhbeau drive at Wal-Mart,0,2C,2_2577091_2576942
+2,Core-Weekday,Core-WeekdayCore-Su-29d6e31,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-cb5fd8c,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-40ff5b8,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-8acef96,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-fd58dd3,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-b79d1d8,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-4599775,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-1070235,North Boundary St at Williamsburg Transit Center,1,2A,2_2576942_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-13c61f2,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-48f5898,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-12d8fd9,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-a9ad8dc,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-5b525d6,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-bca4604,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-0f86b45,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-2f2faba,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-66dee4f,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-6feda8d,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-3d4176f,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-8b56383,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-5471c37,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-063b26c,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-bc71f94,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-44ad99f,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-7927d16,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-bc19af3,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+12,Core-Weekday,Core-WeekdayCore-Su-47e753a,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-8cf8060,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-549865a,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-f0a66c2,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-b8d658e,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+12,Core-Weekday,Core-WeekdayCore-Su-f8c5585,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-69389a5,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-c8b5446,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-19023f4,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-4bb64ce,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-a07b147-1,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-c90c791,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-a07b147,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+12,Core-Weekday,Core-WeekdayCore-Su-a4ac981,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-15fc9db,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-d7f4234,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-d3734b6,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-339cf82,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-5b36a30,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-7bf1194,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-5fa3319,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-216f7e2,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-c5ea4f2,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-b01ac8b,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-920e1eb,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-d9d8beb,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-2a048da,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-4de428d,North Boundary St at Williamsburg Transit Center,1,12B,12_2576980_2577091
+11,W&M-Weekday,W&M-WeekdayFull-Weekday-03333c8,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+12,Core-Weekday,Core-WeekdayCore-Su-951ed50,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-ff0cb46,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-33a5d26,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-ac07a21,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-af3204e,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-14fafec,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-951ed50-2,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-904e70d,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-c6ba776,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-cd477e9,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+12,Core-Weekday,Core-WeekdayCore-Su-af3204e-1,Steeplechase Dr at Steeplechase,0,12A,12_2577091_2576980
+9,W&M-Weekday,W&M-WeekdayFull-Weekday-784ab22,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+5,Core-Weekday,Core-WeekdayCore-Su-b5848e6,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-3348cab,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-f879717,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-5305f45,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-c4a30e4,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-903faa7,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-9f1aa13,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-3220ada,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-f86cae1,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-f3ee013,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-7f84c5b,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-f86cae1-1,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-87c7a55,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-5a83ca9,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-5efb18e,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-9905a34,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+12,Core-Weekday,Core-WeekdayCore-Su-8875331,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-17571f3,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-d75b1a7,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+12,Core-Weekday,Core-WeekdayCore-Su-8875331-2,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+5,Core-Weekday,Core-WeekdayCore-Su-2635375,Queens Path at Riverside,0,5A,5_2577091_2576832
+12,Core-Weekday,Core-WeekdayCore-Su-bbbd8f1,Steeplechase Dr at Steeplechase,0,12B,12_2577091_2576980
+5,Core-Weekday,Core-WeekdayCore-Su-c1b2a49,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-fdcd2c9,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-3caade9,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-2bd6892,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-806cfa5,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-3237aad,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-4e6f8a3-2,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-4e6f8a3,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-f72fe38-1,Queens Path at Riverside,0,5A,5_2577091_2576832
+5,Core-Weekday,Core-WeekdayCore-Su-f72fe38,Queens Path at Riverside,0,5A,5_2577091_2576832
+15,Core-Weekday,Core-WeekdayCore-Su-2025e21,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-c575e49-1,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-c6510c5,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-2025e21-1,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-104703b,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-25bbb14,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-25dfdd6,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-428fa30,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-b406f56,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-41a336d,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-13845e7,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-ecb3b1f,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-da787fe,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-84ff606,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-9af4c1e,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-f4f4dc1,Market House,0,15B,15_2577091_3423007
+5,Core-Weekday,Core-WeekdayCore-Su-ab52380,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,Core-Weekday,Core-WeekdayCore-Su-52d7e88,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-670a2e5,Market House,0,15A,15_2577091_3423007
+5,Core-Weekday,Core-WeekdayCore-Su-85535f5,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-f1faddc,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-bad2095,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-21e7da4,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-3a2c1c4,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-41e3391,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-b9a8785,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-0082c0f,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-f0631c4,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-dd588b2,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-bf7372e,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-c575e49,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-dd588b2-2,Market House,0,15A,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-aced102,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-1c14d82,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-eb718b6,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-43c73ca,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-d8d347c,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-3608d3b,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-6eb2894,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-8eaaa91,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-02913f1,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-680669a,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-5d7e096,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-e7fc412,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-c001106,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-729ba01,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-5c199f4,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-6eac2a4,North Boundary St at Williamsburg Transit Center,1,15A,15_3423007_2577091
+15,Core-Weekday,Core-WeekdayCore-Su-1f32678,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-8e52a1b,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-1db77a9,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-4af56fc,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-b0239c8,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-9c91ac6,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-8c36853,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-4e46f62,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-2659717,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-13d7ef8,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-70b51b7,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-f4ffb24,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-f284cca,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-9a413d8,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-faae18e,Market House,0,15B,15_2577091_3423007
+15,Core-Weekday,Core-WeekdayCore-Su-aaffa49,Market House,0,15B,15_2577091_3423007
+1,Core-Weekday,Core-WeekdayCore-Sa-8d4e743,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-e9cebd9,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-9260039,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-4bf6cdf,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-020afde,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-acb923c,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-3587aca-1,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-3587aca,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-f5eb5fb,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-9d3cdc8,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-d3778b3,Elm hurst St at Lee Hall,0,1B,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-81fd76f,Elm hurst St at Lee Hall,0,1B,1_2577091_2577081
+7,Core-Weekday,Core-WeekdayCore-Sa-af9f1bc,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-79641a1,Elm hurst St at Lee Hall,0,1B,1_2577091_2577081
+7,Core-Weekday,Core-WeekdayCore-Sa-59fc8f2,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-62a89d7,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+1,Core-Weekday,Core-WeekdayCore-Sa-2dbedbb,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-a15e0da,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-547348b,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-b5ada73,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,Core-Weekday,Core-WeekdayCore-Sa-96831a9,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+6,Core-Weekday,Core-WeekdayCore-Sa-06fe9fc,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-ecdba7f,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-e49d6c4,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-2b77aee,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-928e0b7,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-d55775e,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-5113440-2,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-5113440,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-6142b49-2,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-6142b49,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Su-18714cd-1,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Su-18714cd,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Su-5cfb94f,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Su-d26fc96,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Su-09e0079,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,Core-Weekday,Core-WeekdayCore-Su-abc7236,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-1ea6fdb,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,Core-Weekday,Core-WeekdayCore-Sa-9573a1a,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-5a7d4d4,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+7,Core-Weekday,Core-WeekdayCore-Sa-3244e62,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+6,Core-Weekday,Core-WeekdayCore-Sa-396324e,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-dcea54a,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-885a789,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-d76ca06,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-b48ada9,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-5509cad,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-3afd0a3,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-ff18fa2,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-abfcfc8,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-50da14d,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-63d0c05,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,Core-Weekday,Core-WeekdayCore-Sa-22b6f93,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+4,Core-Weekday,Core-WeekdayCore-Su-12d5c50-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-12d5c50,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-576e992-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-576e992,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-a06141e-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-a06141e,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-847dab4-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-847dab4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-13de83d,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+6,Core-Weekday,Core-WeekdayCore-Su-409063b,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,Core-Weekday,Core-WeekdayCore-Su-f5d0f77,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-e6272f9,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-f0bd5c6,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+3,Core-Weekday,Core-WeekdayCore-Su-6606f73,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-cf22392,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-b262e94,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-150a834,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-f386880,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-b262e94-2,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-027c8ec,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-f386880-1,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-b268fc1,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-c49501b,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-86c1a08,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-d577e7c,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-e4dbfc3,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-e3a4508,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-64228b1,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-e137e7e,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+4,Core-Weekday,Core-WeekdayCore-Su-173c7b2-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-173c7b2,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-2147092-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-2147092,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,Core-Weekday,Core-WeekdayCore-Su-7eddbee-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+4,Core-Weekday,Core-WeekdayCore-Su-7eddbee,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+3,Core-Weekday,Core-WeekdayCore-Su-546cd1f-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-546cd1f,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-2bbd8d0-4,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-2bbd8d0,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-2acdfad,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-887b5a3,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-8195580,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-17a7d81,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-c780537,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-bcf8d74,Tam-O-Shanter Blvd at Merrimac Trl,0,3A,3_2577091_2577048
+3,Core-Weekday,Core-WeekdayCore-Su-4cd801e,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+3,Core-Weekday,Core-WeekdayCore-Su-4dacbcf,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-43c04a6,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+3,Core-Weekday,Core-WeekdayCore-Su-ceff51e,North Boundary St at Williamsburg Transit Center,1,3A,3_2577048_2577091
+2,Core-Weekday,Core-WeekdayCore-Su-30169ab,East roshahmhbeau drive at Wal-Mart,0,2A,2_2577091_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-4814107,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-76aa176,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-c6bd7b1,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-b57089e,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-27194af,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-516677d,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-3625e67,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-bb03aca,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-ea002f0,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-ae0be11-2,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-ae0be11,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,Core-Weekday,Core-WeekdayCore-Su-d7d01e4-1,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,Core-Weekday,Core-WeekdayCore-Su-d7d01e4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+15,W&M-Sa,W&M-SaFull-Sa-1807841,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-fa387c4,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-e9e92e0,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-7091734,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-e362c31,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-b580be2,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-19eefb9,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-e4f8c87,Market House,0,15A,15_2577091_3423007
+1,W&M-Sa,W&M-SaCWF-Weekday-486c979,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+5,W&M-Sa,W&M-SaFull-Sa-c2c37ff-2,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-c156841-1,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+5,W&M-Sa,W&M-SaFull-Sa-c156841,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Sa,W&M-SaFull-Sa-ea27508,Market House,0,15A,15_2577091_3423007
+5,W&M-Sa,W&M-SaFull-Sa-4083679,North Boundary St at Williamsburg Transit Center,1,5A,5_2576832_2577091
+15,W&M-Sa,W&M-SaFull-Sa-a9c21eb,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-d195156,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-ac2744b,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-daee48b,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-8f1c9b1,Market House,0,15A,15_2577091_3423007
+15,W&M-Sa,W&M-SaFull-Sa-ea58891,Market House,0,15A,15_2577091_3423007
+1,W&M-Sa,W&M-SaCWF-Weekday-6095078,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-c3a2acf,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-c25b681,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-a8aaa78,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-5172c39,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-92d6d9f,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-9938917,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-d2e8ff8,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-41c339e,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-95b6321,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-6d32639,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-9f50054,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+11,W&M-Sa,W&M-SaCWF-Weekday-9ffc9d6,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+1,W&M-Sa,W&M-SaCWF-Weekday-7d85479,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+11,W&M-Sa,W&M-SaCWF-Weekday-f0b55c5,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Sa,W&M-SaCWF-Weekday-ef93c46,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+1,W&M-Sa,W&M-SaCWF-Weekday-157a9a6,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-643fced,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-2d064e6,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-0fd29c3,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-608c6b7,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-c0c2977,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-d88470b,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-d06ba39,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-ec2bc65,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-b20b141,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-39cd089,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-7dfb168,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-daede3b,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-4ba5109,Elm hurst St at Lee Hall,0,1A,1_2577091_2577081
+1,W&M-Sa,W&M-SaCWF-Weekday-33d0bca,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+1,W&M-Sa,W&M-SaCWF-Weekday-d7f4f41,North Boundary St at Williamsburg Transit Center,1,1A,1_2577081_2577091
+9,W&M-Sa,W&M-SaCWF-Weekday-d7c8145,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-ff73c70,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-5b5c4b9,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-4d12807,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-575fe0c,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-b1839de,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-65d8f02,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-e4aa0be,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-40daea8,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-c1acae7,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-3e8e771,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-1088c43,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-b437171,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-6307a6f,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+9,W&M-Sa,W&M-SaCWF-Weekday-1c8cb05,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-82251a1,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+11,W&M-Sa,W&M-SaCWF-Weekday-b8d0a73,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Sa,W&M-SaCWF-Weekday-fbc7b41,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Sa,W&M-SaCWF-Weekday-a5f2667,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Sa,W&M-SaCWF-Weekday-eef0fdc,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Sa,W&M-SaCWF-Weekday-93a5449,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Sa,W&M-SaCWF-Weekday-3e1931f,Bahruhm Blvd at Rivermeade,1,11A,11_2576815_2576885
+11,W&M-Sa,W&M-SaCWF-Weekday-8c2417a,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,W&M-Sa,W&M-SaCWF-Weekday-d1f3c98,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,W&M-Sa,W&M-SaCWF-Weekday-050a2a8,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,W&M-Sa,W&M-SaCWF-Weekday-c8a03a3,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,W&M-Sa,W&M-SaCWF-Weekday-0164955,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,W&M-Sa,W&M-SaCWF-Weekday-6ceeaab,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,W&M-Sa,W&M-SaCWF-Weekday-94e9a46,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+11,W&M-Sa,W&M-SaCWF-Weekday-4cba99d,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+9,W&M-Sa,W&M-SaCWF-Weekday-5cbb5e6,East roshahmhbeau drive at \sel=alt3\Wal-Mart,1,9A,9_2577000_2576942
+11,W&M-Sa,W&M-SaCWF-Weekday-ac9fe8a,Battery Blvd at Riverside Hospital,0,11A,11_2576885_2576815
+7,W&M-Sa,W&M-SaFull-Sa-9eb15d8,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-5501c01,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-4d363c6,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-89dedca,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+6,W&M-Sa,W&M-SaFull-Sa-b9dfdf0,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-b0eb77a,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-a387e31,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-89a6434,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-fafd795,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-5cdbe2b,Colonial Pkwy at The Settlement,0,6A,6_2577091_2576896
+6,W&M-Sa,W&M-SaFull-Sa-49e542f,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-686a803,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-c9084fe,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-243f685,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-6cc3a2e,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-dd74d9f,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+9,W&M-Sa,W&M-SaCWF-Weekday-7f16ce4,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-4e68de1,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-1bcf836,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-ca96c98,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-66218b8,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+9,W&M-Sa,W&M-SaCWF-Weekday-c868edd,Bahruhm's villroad at LaGrange Park way.,0,9A,9_2576942_2577001
+7,W&M-Sa,W&M-SaFull-Sa-8fda036,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-c4c591c,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-1f48163,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-35c0510,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-f37534d,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-d313f97,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-a555994,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-6b8465f,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-0c62fb3,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+7,W&M-Sa,W&M-SaFull-Sa-de0b664,North Boundary St at Williamsburg Transit Center,1,7A,7_2576942_2577091
+4,W&M-Sa,W&M-SaFull-Sa-cd99787,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-1e51274-4,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-3b796ea,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-cd99787-4,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-39827e0,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-3b796ea-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-8a0e298,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-39827e0-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-49aaee0,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-8a0e298-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-5431e04,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-49aaee0-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-5e5e92d,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-5431e04-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-bd7093d,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+4,W&M-Sa,W&M-SaFull-Sa-5e5e92d-4,New Town at Avenue at Velocity.,0,4A,4_2576942_2577026
+6,W&M-Sa,W&M-SaFull-Sa-d0f5ffb,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-4804bf0,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-5cdd969,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-063421f,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-b751ee6,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-61cf81b,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-5a9d4b2,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+6,W&M-Sa,W&M-SaFull-Sa-b751ee6-2,North Boundary St at Williamsburg Transit Center,1,6A,6_2576896_2577091
+4,W&M-Sa,W&M-SaFull-Sa-d785618,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-5a9d4b2-1,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-a784983,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-d785618-4,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-835412c,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-a784983-4,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-1e51274,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942
+4,W&M-Sa,W&M-SaFull-Sa-835412c-4,East roshahmhbeau drive at Wal-Mart,1,4A,4_2577026_2576942

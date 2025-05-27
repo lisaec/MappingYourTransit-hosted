@@ -1,0 +1,15 @@
+﻿fare_product_id,fare_media_id,amount,currency
+1,CashFare,1.50,USD
+2,CashFare,2.25,USD
+3,CashFare,2.75,USD
+4,CashFare,3.25,USD
+5,CashFare,1.75,USD
+1-discount,CashFare,0.75,USD
+2-discount,CashFare,1.10,USD
+3-discount,CashFare,1.35,USD
+4-discount,CashFare,1.60,USD
+5-discount,CashFare,0.85,USD
+regional-day-pass,CashFare,5.50,USD
+regional-day-pass,TokenTransitFare,5.50,USD
+south-county-day-pass,CashFare,3.00,USD
+south-county-discount-day-pass,CashFare,1.50,USD

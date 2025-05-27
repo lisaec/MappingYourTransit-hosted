@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_phone,agency_timezone,agency_lang,agency_fare_url,agency_email
+1,"RTA - SCT - Paso","https://www.slorta.org/","(805) 541-2228","America/Los_Angeles",en,"https://www.slorta.org/schedules-fares/",

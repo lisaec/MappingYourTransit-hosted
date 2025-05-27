@@ -1,0 +1,12 @@
+﻿area_id,area_name
+1,Cambria / Hearst Castle
+2,Cuesta College
+3,Los Osos / Morro Bay / Cayucos
+4,Nipomo
+5,Paso Robles
+6,Arroyo Grande / Grover Beach / Pismo Beach
+7,San Luis Obispo
+8,San Miguel
+9,Atascadero
+10,Santa Maria
+11,Templeton

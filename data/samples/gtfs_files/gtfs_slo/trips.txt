@@ -1,0 +1,355 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+"14N",3,2,"Achievement House",1,9092,4
+"21",3,3,"Ramona Garden Park",1,2101,8
+"27",3,4,"Grover; Oceano; Arroyo Grande",1,2101,21
+"21",3,5,"Pismo Beach Premium Outlets",1,2101,10
+"24",1,6,"Pismo Beach Premium Outlets",0,2401,23
+"24",1,7,"Ramona Garden Park",0,2401,22
+"28",1,8,"Grover; Oceano; Arroyo Grande",0,2401,20
+"24",1,9,"Pismo Beach Premium Outlets",0,2401,13
+"24",2,10,"Ramona Garden Park",0,2401,22
+"28",2,11,"Grover; Oceano; Arroyo Grande",0,2401,20
+"24",2,12,"Pismo Beach Premium Outlets",0,2401,13
+"9S",3,13,"Government Center; Transfer to Routes 9, 12 & 14",0,9094,113
+"21",3,14,"Pismo Beach Premium Outlets",1,2701,10
+"21",3,15,"Ramona Garden Park",1,2701,8
+"28",1,16,"Grover; Oceano; Arroyo Grande",0,2801,20
+"24",1,17,"Pismo Beach Premium Outlets",0,2801,13
+"9S",3,19,"Government Center; Transfer to Routes 9, 12 & 14",0,9096,65
+"24",1,20,"Ramona Garden Park",0,2801,22
+"9S",3,21,"Government Center; Transfer to Routes 9, 12 & 14",0,9096,65
+"9N",3,22,"Paso Robles; Cuesta College North",1,9096,68
+"9N",3,24,"North County Transit Center",1,9096,97
+"9S",3,26,"Government Center",0,9097,112
+"9N",3,27,"North County Transit Center",1,9097,97
+"9S",3,28,"Government Center; Transfer to Routes 9, 12 & 14",0,9098,65
+"9S",3,30,"Government Center",0,9098,112
+"9N",3,31,"North County Transit Center",1,9098,93
+"12S",3,35,"Government Center Express",0,12121,86
+"21",3,38,"Pismo Beach Premium Outlets",1,2101,9
+"24",2,48,"Pismo Beach Premium Outlets",0,2801,13
+"24",2,49,"Ramona Garden Park",0,2801,22
+"28",2,50,"Grover; Oceano; Arroyo Grande",0,2801,20
+"12S",3,52,"Government Center",0,12123,62
+"15N",3,53,"San Simeon",1,15151,82
+"15S",3,54,"Morro Bay",0,15151,98
+"15N",3,55,"San Simeon",1,15152,129
+"15S",3,56,"Morro Bay",0,15152,126
+"B",3,57,"North County Transit Center",0,8000,96
+"9S",3,58,"Government Center; Transfer to Routes 9, 12 & 14",0,9095,65
+"9N",3,59,"San Miguel",1,9095,100
+"9S",3,60,"North County Transit Center",0,9095,83
+"9S",3,69,"Government Center; Transfer to Routes 9, 12 & 14",0,9097,65
+"24",3,70,"Pismo Beach Premium Outlets",0,2401,23
+"9N",3,71,"Paso Robles; Cuesta College North",1,9093,68
+"9S",3,72,"Government Center",0,9095,112
+"9N",3,73,"Paso Robles; Cuesta College North",1,9093,68
+"9S",3,74,"North County Transit Center",0,9093,16
+"9S",3,75,"Government Center; Transfer to Routes 9, 12 & 14",0,9091,113
+"9N",3,76,"Paso Robles; Cuesta College North",1,9091,68
+"9S",3,77,"Government Center; Transfer to Routes 9, 12 & 14",0,9092,114
+"9S",3,78,"Government Center",0,9091,112
+"9N",3,79,"Paso Robles; Cuesta College North",1,9091,68
+"9N",3,80,"Paso Robles; Cuesta College North",1,9094,68
+"9S",3,81,"Government Center",0,9094,112
+"9N",3,82,"Paso Robles; Cuesta College North",1,9094,68
+"9S",3,83,"Government Center",0,9093,112
+"9N",3,84,"Paso Robles; Cuesta College North",1,9092,68
+"9N",3,85,"San Miguel",1,9092,60
+"9S",3,86,"Government Center",0,9092,95
+"9N",3,87,"North County Transit Center",1,9092,97
+"9N",3,88,"Paso Robles; Cuesta College North",1,9097,68
+"9N",3,89,"Paso Robles; Cuesta College North",1,9098,68
+"10N",3,92,"Government Center",1,10101,73
+"10S",3,93,"Santa Maria Transit Center",0,10101,119
+"10N",3,94,"Government Center",1,10101,118
+"10S",3,95,"Santa Maria Transit Center",0,10101,119
+"10N",3,96,"Government Center",1,10101,118
+"10S",3,97,"Santa Maria Transit Center",0,10102,119
+"10N",3,98,"Government Center",1,10102,118
+"10S",3,99,"Santa Maria Transit Center",0,10102,119
+"10N",3,100,"Government Center",1,10102,118
+"9S",4,550,"Government Center",0,9902,109
+"9N",4,551,"San Miguel",1,9902,100
+"9S",4,552,"North County Transit Center",0,9902,83
+"9N",4,554,"San Miguel",1,9905,110
+"9S",4,556,"Government Center",0,9901,95
+"9N",4,557,"North County Transit Center",1,9901,97
+"21",3,558,"Pismo Beach Premium Outlets",1,2101,10
+"21",3,559,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,560,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,562,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,563,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,564,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,565,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,566,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,569,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,570,"Pismo Beach Premium Outlets",1,2101,9
+"21",3,571,"Ramona Garden Park",1,2101,8
+"24",3,572,"Pismo Beach Premium Outlets",0,2401,13
+"24",3,577,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,578,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,579,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,580,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,581,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,582,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,583,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,584,"Pismo Beach Premium Outlets",0,2401,23
+"24",3,585,"Ramona Garden Park",0,2401,22
+"27",3,586,"Grover; Arroyo Grande; Oceano",1,2701,28
+"27",3,587,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,588,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,589,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,590,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,591,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,592,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,593,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,594,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,595,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,597,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,598,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,599,"Grover; Oceano; Arroyo Grande",1,2701,21
+"27",3,600,"Grover; Oceano; Arroyo Grande",1,2701,21
+"28",3,601,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,604,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,605,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,606,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,607,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,608,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,609,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,610,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,611,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,612,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,613,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",3,614,"Grover; Oceano; Arroyo Grande",0,2801,20
+"A",3,615,"North County Transit Center",1,7000,94
+"A",3,616,"North County Transit Center",1,7000,94
+"A",3,617,"North County Transit Center",1,7000,94
+"A",3,618,"North County Transit Center",1,7000,94
+"A",3,619,"North County Transit Center",1,7000,94
+"A",3,620,"North County Transit Center",1,7000,94
+"A",3,621,"North County Transit Center",1,7000,94
+"A",3,622,"North County Transit Center",1,7000,94
+"A",3,623,"North County Transit Center",1,7000,94
+"A",3,624,"North County Transit Center",1,7000,94
+"A",3,625,"North County Transit Center",1,7000,94
+"A",3,626,"North County Transit Center",1,7000,94
+"A",3,627,"Paso Robles; Spring & 34th",1,7000,12
+"B",3,628,"North County Transit Center",0,8000,33
+"B",3,630,"North County Transit Center",0,8000,96
+"B",3,631,"North County Transit Center",0,8000,96
+"B",3,632,"North County Transit Center",0,8000,96
+"B",3,633,"North County Transit Center",0,8000,96
+"9S",4,634,"Government Center",0,9905,109
+"10N",3,672,"Government Center",1,10103,118
+"10S",3,673,"Santa Maria Transit Center",0,10103,119
+"10N",3,674,"Government Center",1,10103,118
+"10S",3,675,"Santa Maria Transit Center",0,10103,119
+"10S",3,676,"Santa Maria Transit Center",0,10104,119
+"10N",3,677,"Government Center",1,10104,118
+"10S",3,678,"Santa Maria Transit Center",0,10104,119
+"10N",3,679,"Government Center",1,10104,118
+"10S",3,680,"Santa Maria Transit Center",0,10104,119
+"10S",3,681,"Santa Maria Transit Center",0,10105,119
+"10N",3,682,"Government Center",1,10105,118
+"10S",3,683,"Santa Maria Transit Center",0,10105,119
+"10N",3,684,"Government Center",1,10105,118
+"10S",3,685,"Santa Maria Transit Center",0,10105,119
+"10S",3,686,"Santa Maria Transit Center",0,10106,119
+"10N",3,687,"Government Center",1,10106,118
+"10S",3,688,"Santa Maria Transit Center",0,10106,119
+"10N",3,689,"Government Center",1,10106,118
+"10S",3,690,"Santa Maria Transit Center",0,10106,119
+"12N",3,692,"Morro Bay & Los Osos",1,12121,70
+"12S",3,693,"Government Center",0,12121,40
+"12N",3,694,"Morro Bay & Los Osos",1,12121,70
+"12S",3,695,"Government Center",0,12121,40
+"12N",3,696,"Morro Bay & Los Osos",1,12121,70
+"12S",3,697,"Government Center",0,12121,40
+"12N",3,698,"Morro Bay & Los Osos",1,12122,70
+"12S",3,699,"Government Center",0,12122,40
+"12N",3,700,"Morro Bay & Los Osos",1,12122,70
+"12S",3,701,"Government Center",0,12122,40
+"12N",3,702,"Morro Bay & Los Osos",1,12122,70
+"12S",3,703,"Government Center",0,12122,40
+"12N",3,704,"Morro Bay & Los Osos",1,12122,70
+"12S",3,705,"Government Center",0,12122,40
+"12N",3,706,"Morro Bay & Los Osos",1,12123,70
+"12N",3,708,"Morro Bay & Los Osos",1,12123,70
+"12S",3,709,"Government Center",0,12123,40
+"12N",3,710,"Morro Bay & Los Osos",1,12123,70
+"12S",3,711,"Government Center",0,12123,40
+"12S",3,712,"Government Center",0,12124,40
+"12N",3,713,"Morro Bay & Los Osos",1,12123,70
+"12S",3,714,"Government Center",0,12123,40
+"12N",3,715,"Morro Bay & Los Osos",1,12124,70
+"12S",3,716,"Government Center",0,12124,40
+"12N",3,717,"Morro Bay & Los Osos",1,12124,70
+"12S",3,718,"Government Center",0,12124,40
+"12N",3,719,"Morro Bay & Los Osos",1,12124,70
+"12N",3,720,"Morro Bay & Los Osos",1,12124,70
+"12S",3,721,"Government Center",0,12124,40
+"21",4,781,"Pismo Beach Premium Outlets",1,2101,10
+"21",4,782,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,783,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,784,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,785,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,786,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,787,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,788,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,789,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,790,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,791,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,792,"Pismo Beach Premium Outlets",1,2101,9
+"21",4,793,"Ramona Garden Park",1,2101,8
+"24",4,794,"Pismo Beach Premium Outlets",0,2401,13
+"24",4,795,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,796,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,797,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,798,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,799,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,800,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,801,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,802,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,803,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,804,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,805,"Pismo Beach Premium Outlets",0,2401,23
+"24",4,806,"Ramona Garden Park",0,2401,22
+"28",4,813,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,814,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,815,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,816,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,817,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,818,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,819,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,820,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,821,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,822,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,823,"Grover; Oceano; Arroyo Grande",0,2801,20
+"B",4,835,"North County Transit Center",0,8212,33
+"B",4,836,"North County Transit Center",0,8212,96
+"B",4,837,"North County Transit Center",0,8212,96
+"B",4,838,"North County Transit Center",0,8212,96
+"B",4,840,"North County Transit Center",0,8222,96
+"B",4,841,"North County Transit Center",0,8222,96
+"B",4,842,"North County Transit Center",0,8222,96
+"B",4,843,"North County Transit Center",0,8222,96
+"B",4,844,"North County Transit Center",0,8222,96
+"B",4,845,"North County Transit Center",0,8222,96
+"B",3,864,"North County Transit Center",0,8000,96
+"B",3,865,"North County Transit Center",0,8000,96
+"B",3,866,"North County Transit Center",0,8000,96
+"B",3,867,"North County Transit Center",0,8000,96
+"B",3,868,"North County Transit Center",0,8000,96
+"B",3,869,"North County Transit Center",0,8000,96
+"B",3,871,"North County Transit Center",0,8000,96
+"9S",4,872,"Government Center",0,9901,95
+"9N",4,873,"North County Transit Center",1,9901,97
+"9S",4,876,"Government Center",0,9902,109
+"9N",4,877,"San Miguel",1,9902,100
+"10N",4,880,"Government Center",1,10109,118
+"10S",4,881,"Santa Maria Transit Center",0,10109,119
+"10N",4,882,"Government Center",1,10109,118
+"10S",4,883,"Santa Maria Transit Center",0,10109,119
+"10N",4,884,"Government Center",1,10110,118
+"10S",4,885,"Santa Maria Transit Center",0,10110,119
+"10N",4,886,"Government Center",1,10110,118
+"10S",4,887,"Santa Maria Transit Center",0,10110,119
+"10N",4,888,"Government Center",1,10110,118
+"10S",4,889,"Santa Maria Transit Center",0,10110,119
+"12S",4,890,"Government Center",0,12127,79
+"12N",4,891,"Morro Bay & Los Osos",1,12127,41
+"12S",4,892,"Government Center",0,12127,79
+"12N",4,893,"Morro Bay & Los Osos",1,12127,41
+"12S",4,894,"Government Center",0,12128,79
+"12N",4,895,"Morro Bay & Los Osos",1,12128,41
+"12S",4,896,"Government Center",0,12128,79
+"12N",4,897,"Morro Bay & Los Osos",1,12128,41
+"12S",4,898,"Government Center",0,12128,79
+"12N",4,899,"Morro Bay & Los Osos",1,12128,41
+"15S",4,900,"Morro Bay",0,15153,126
+"15N",4,901,"Hearst Castle",1,15153,127
+"15S",4,902,"Morro Bay",0,15153,128
+"15N",4,903,"Hearst Castle",1,15153,127
+"15S",4,904,"Morro Bay",0,15154,128
+"15N",4,905,"Hearst Castle",1,15154,127
+"15S",4,906,"Morro Bay",0,15154,128
+"15N",4,907,"Hearst Castle",1,15154,127
+"15S",4,908,"Morro Bay",0,15154,128
+"15N",4,909,"San Simeon",1,15154,129
+"10N",3,956,"Government Center",1,10103,118
+"15N",3,1004,"San Simeon",1,15151,129
+"15S",3,1005,"Morro Bay",0,15151,126
+"15N",3,1006,"San Simeon",1,15151,129
+"15S",3,1007,"Morro Bay",0,15151,126
+"15S",3,1009,"Morro Bay",0,15152,126
+"15N",3,1010,"San Simeon",1,15152,129
+"15S",3,1011,"Morro Bay",0,15152,126
+"15N",3,1012,"San Simeon",1,15152,129
+"B",4,1013,"North County Transit Center",0,8212,96
+"28",4,1067,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",4,1068,"Grover; Oceano; Arroyo Grande",0,2801,20
+"21",5,1524,"Pismo Beach Premium Outlets",1,2101,10
+"21",5,1525,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1526,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1527,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1528,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1529,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1530,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1531,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1532,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1533,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1534,"Pismo Beach Premium Outlets",1,2101,9
+"21",5,1535,"Ramona Garden Park",1,2101,8
+"24",5,1536,"Pismo Beach Premium Outlets",0,2401,13
+"24",5,1537,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1538,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1539,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1540,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1541,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1542,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1543,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1544,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1545,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1546,"Pismo Beach Premium Outlets",0,2401,23
+"24",5,1547,"Ramona Garden Park",0,2401,22
+"28",5,1596,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1597,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1598,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1599,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1600,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1601,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1602,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1603,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1604,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1605,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1606,"Grover; Oceano; Arroyo Grande",0,2801,20
+"28",5,1607,"Grover; Oceano; Arroyo Grande",0,2801,20
+"9S",5,1690,"Government Center",0,9903,95
+"9N",5,1691,"San Miguel",1,9903,100
+"9S",5,1692,"Government Center",0,9903,95
+"9N",5,1693,"San Miguel",1,9903,100
+"9S",5,1694,"Government Center",0,9904,95
+"9N",5,1695,"San Miguel",1,9904,110
+"10N",5,1696,"Government Center",1,10111,118
+"10S",5,1697,"Santa Maria Transit Center",0,10111,119
+"10N",5,1698,"Government Center",1,10111,118
+"10S",5,1699,"Santa Maria Transit Center",0,10111,119
+"10N",5,1700,"Government Center",1,10112,118
+"10S",5,1701,"Santa Maria Transit Center",0,10112,119
+"12S",5,1702,"Government Center",0,12129,79
+"12N",5,1703,"Morro Bay & Los Osos",1,12129,88
+"12S",5,1704,"Government Center",0,12129,42
+"12N",5,1705,"Morro Bay & Los Osos",1,12129,88
+"12S",5,1706,"Government Center",0,12129,42
+"12N",5,1707,"Morro Bay & Los Osos",1,12130,88
+"12S",5,1708,"Government Center",0,12130,42
+"12N",5,1709,"Morro Bay & Los Osos",1,12130,88
+"12S",5,1710,"Government Center",0,12130,42
+"12N",5,1711,"Morro Bay & Los Osos",1,12130,41
+"15S",5,1712,"Morro Bay",0,15155,126
+"15N",5,1713,"Hearst Castle",1,15155,127
+"15S",5,1714,"Morro Bay",0,15155,128
+"15N",5,1715,"Hearst Castle",1,15156,127
+"15S",5,1716,"Morro Bay",0,15156,128
+"15N",5,1717,"San Simeon",1,15156,129
