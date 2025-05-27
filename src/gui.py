@@ -17,7 +17,7 @@ importlib.reload(posters)
 import warnings
 warnings.filterwarnings('ignore')
 
-def run_app() -> None:
+def run_app():
 
     """Runs the Dash App when called in main python file"""
 
@@ -25,10 +25,16 @@ def run_app() -> None:
                 external_stylesheets=[dbc.themes.DARKLY])
     app.title = 'Mapping Your Transit'
 
+    server = app.server
+
     create_layout(app)
     register_callbacks(app)
 
     app.run(debug=False) 
+
+    return app
+
+
 
 def create_layout(app: Dash) -> None:
     """Sets up the layout of the App"""
