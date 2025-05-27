@@ -1,0 +1,13 @@
+route_id,route_short_name,route_long_name,route_type,route_color,agency_id,route_desc,route_url,route_text_color,route_sort_order,eta_corridor_id
+"1","1","PVCC/RIVERSIDE","3",F47721,,,,,"1",1
+"2","2","5TH ST STATION","3",9C4E0F,,,,,"2",2
+"3","3","SOUTHWOOD/BELMONT","3",2B328A,,,,,"3",3
+"4","4","UVA HEALTH/WILLOUGHBY","3",ED2124,,,,,"4",4
+"5","5","BRSC/FSQ/WALMART","3",9C4E0F,,,,,"5",5
+"6","6","UVA HEALTH/WILLOUGHBY","3",FBAD18,,,,,"6",6
+"7","7","BRSC/UVA HEALTH/FSQ","3",752B8F,,,,,"7",7
+"8","8","BRSC/STONEFIELD","3",909170,,,,,"8",8
+"9","9","UVA HEALTH/YMCA/CHS","3",ED228E,,,,,"9",9
+"10","10","PANTOPS/MARTHA JEFF","3",3DC4E5,,,,,"10",10
+"11","11","LOCUST GROVE/FSQ","3",68BD45,,,,,"11",11
+"Trolley","T","FREE TROLLEY","3",086D38,,,,,"12",12
