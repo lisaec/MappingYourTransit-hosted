@@ -32,7 +32,7 @@ def run_app():
 
     app.run(debug=False) 
 
-    return app
+
 
 
 

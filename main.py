@@ -1,7 +1,4 @@
-from src.grc import *
-
-import importlib
-importlib.reload(gui)
+from src.gui import *
 
 
 app = Dash(__name__, 
