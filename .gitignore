@@ -13,7 +13,7 @@ data/user_data/databases/
 data/user_data/gtfs_files/
 data/outputs/posters/user_uploaded/
 
-
+main.py
 # C extensions
 *.so
 
