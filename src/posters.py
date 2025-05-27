@@ -107,7 +107,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
         0.985, y_position + 0.017,
         "ROUTES", 
         transform=ax.transAxes, 
-        fontsize = 15,
+        fontsize = 20,
         verticalalignment='top',
         horizontalalignment='right',
         fontproperties=helvetica,

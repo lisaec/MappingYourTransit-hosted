@@ -8,10 +8,10 @@ __pycache__/
 z_*
 .DS_Store
 
-# #user uploaded data used during testing
-# data/user_data/databases/
-# data/user_data/gtfs_files/
-# data/outputs/posters/user_uploaded/
+#user uploaded data used during testing
+data/user_data/databases/
+data/user_data/gtfs_files/
+data/outputs/posters/user_uploaded/
 
 
 # C extensions
