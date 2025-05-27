@@ -110,7 +110,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
         fontsize = 15,
         verticalalignment='top',
         horizontalalignment='right',
-        fontname='Helvetica',
+        fontproperties=helvetica,
         backgroundcolor = '#fafafa'
         )
    
@@ -165,7 +165,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
             verticalalignment='top',
             horizontalalignment='right', 
             fontweight='bold',
-            fontname='Helvetica'
+            fontproperties=helvetica
         )
 
         # Adjust the y_position down to space out the text
@@ -179,7 +179,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
                  weight='black', 
                  pad=10,
                  loc = "right",
-                fontname='Helvetica')
+                fontproperties=helvetica)
     
     #adding byline
     fig.text(0.99, -0.001, 'Lisa Coleman | Mapping Your Transit', 
@@ -216,7 +216,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
         ax2.set_yticklabels(feed.route_freq().index)
 
         # axis labels
-        ax2.set_xlabel("Hour (8am - 8pm)", fontsize=12, fontname='Helvetica')
+        ax2.set_xlabel("Hour (8am - 8pm)", fontsize=12, fontproperties=helvetica)
 
 
         # Remove gridlines
@@ -255,7 +255,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
             fontsize = 15,
             verticalalignment='top',
             horizontalalignment='right',
-            fontname='Helvetica',
+            fontproperties=helvetica,
             backgroundcolor = '#fafafa'
             )
         
