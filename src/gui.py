@@ -120,6 +120,26 @@ def create_layout(app: Dash) -> None:
                     
                 ]
             ),
+            html.Footer(
+                html.A(
+                    "About Mapping Your Transit",
+                    href="https://github.com/lisaec/MappingYourTransit-hosted/blob/main/README.md", 
+                    target="_blank",
+                    style={
+                        'color': '#999',
+                        'textDecoration': 'none',
+                        'fontSize': '14px',
+                        'textAlign': 'center',
+                        'display': 'block',
+                        'marginTop': '40px',
+                        'marginBottom': '10px'
+                    }
+                ),
+                style={
+                    'width': '100%',
+                    'textAlign': 'center'
+                }
+            ),
 
             # Active Feed storage
             dcc.Store(id='active-feed-string')

@@ -17,12 +17,12 @@ import matplotlib.font_manager as fm
 import warnings
 warnings.filterwarnings('ignore')
 
+from pathlib import Path
+
 
 def map(feed, Heatmap = True, user_data = False)-> str:
 
-    font_path = 'fonts/Helvetica.ttf'  # Adjust path as needed
-    helvetica = fm.FontProperties(fname=font_path)
-    plt.rcParams['font.family'] = helvetica.get_name()
+    fontpath = Path('fonts/Helvetica.ttf')  # Adjust path as needed
     
     """Makes 11x17 poster with map, route legend, and an optional heatmap. 
     saves poster in outputs folder and returns the name of the file"""
@@ -108,10 +108,10 @@ def map(feed, Heatmap = True, user_data = False)-> str:
         0.985, y_position + 0.017,
         "ROUTES", 
         transform=ax.transAxes, 
-        fontsize = 20,
+        fontsize = 17,
         verticalalignment='top',
         horizontalalignment='right',
-        fontproperties=helvetica,
+        font = fontpath,
         backgroundcolor = '#fafafa'
         )
    
@@ -166,7 +166,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
             verticalalignment='top',
             horizontalalignment='right', 
             fontweight='bold',
-            fontproperties=helvetica
+            font = fontpath
         )
 
         # Adjust the y_position down to space out the text
@@ -176,15 +176,15 @@ def map(feed, Heatmap = True, user_data = False)-> str:
 
     # Agency Name Main Title
     ax.set_title(feed.agency_name(),
-                 fontsize=32, 
                  weight='black', 
                  pad=10,
                  loc = "right",
-                fontproperties=helvetica)
+                 font = fontpath,
+                 fontsize = 40)
     
     #adding byline
     fig.text(0.99, -0.001, 'Lisa Coleman | Mapping Your Transit', 
-         ha='right', fontsize=10, color='gray')
+         ha='right', fontsize=10, color='gray', font = fontpath)
 
     #filename
     poster_file = f'data/outputs/posters/{feed.name}.png'
@@ -217,7 +217,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
         ax2.set_yticklabels(feed.route_freq().index)
 
         # axis labels
-        ax2.set_xlabel("Hour (8am - 8pm)", fontsize=12, fontproperties=helvetica)
+        ax2.set_xlabel("Hour (8am - 8pm)", fontsize=12, font = fontpath)
 
 
         # Remove gridlines
@@ -256,7 +256,7 @@ def map(feed, Heatmap = True, user_data = False)-> str:
             fontsize = 15,
             verticalalignment='top',
             horizontalalignment='right',
-            fontproperties=helvetica,
+            font = fontpath,
             backgroundcolor = '#fafafa'
             )
         
